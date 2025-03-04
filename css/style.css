@@ -3,11 +3,6 @@ body {
   font-family: Arial, sans-serif;
 }
 
-div{
-  display: inline-block;
-  border-width: 3rem;
-}
-
 .lamp-container {
   margin-top: 50px;
 }
